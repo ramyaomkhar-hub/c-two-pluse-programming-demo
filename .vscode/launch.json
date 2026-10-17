@@ -11,7 +11,7 @@
 			"using namespace std;\n",
 			"int main(){" ,
 			"\t$1",
-			"\return 0;"
+			"\treturn 0;"
 		    "}"			
 		],
 		"description": "This is a boilerplate"
