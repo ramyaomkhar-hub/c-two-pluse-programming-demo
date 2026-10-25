@@ -45,3 +45,21 @@ int main(){
 
     }
 }
+
+
+// OUTPUT:-
+
+// These are math marks
+// 2278
+// 738
+// 378
+// 578
+// These are marks
+// 23
+// 45
+// 56
+// 89
+// The value of marks 0 is 23
+// The value of marks[0] is23The value of marks[0] is45
+// The value of marks[0] is455
+// The value of marks[0] is89

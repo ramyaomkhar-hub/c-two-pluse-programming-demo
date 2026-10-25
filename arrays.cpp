@@ -35,7 +35,21 @@ for(int i=0; i<4; i++)
 }
 return 0;
 
-
-
-
 }
+
+
+// OUTPUT:-
+// These are math marks
+// 2278
+// 738
+// 378
+// 578
+// These are marks
+// 23
+// 45
+// 56
+// 89
+// The value of marks0 is 23
+// The value of marks1 is 45
+// The value of marks2 is 56
+// The value of marks3 is 89

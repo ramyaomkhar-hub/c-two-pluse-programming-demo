@@ -15,7 +15,12 @@ int main(){
 
     return 0;
 
-
-
-
 }
+
+
+
+// OUTPUT:
+
+//  The address of a is0x61ff0c
+//  The address of a is0x61ff08
+//  The address of b is3

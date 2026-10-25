@@ -1,0 +1,34 @@
+//  structures in c++ will be done in a program .
+
+#include<iostream>
+using namespace std;
+
+
+struct employee
+{
+    /* data */
+    int eId; 
+    char favChar; 
+    float salary; 
+};
+
+ int main() {
+
+     struct employee harry;
+     harry.eId = 1;
+     harry.favChar = 'c';
+     harry.salary = 120000000;
+     cout<<"The value is "<<harry.eId<<endl; 
+     cout<<"The value is "<<harry.favChar<<endl; 
+     cout<<"The value is "<<harry.salary<<endl; 
+
+
+     return 0;
+}
+
+
+
+// OUTPUT:-
+// The value is 1
+// The value is c
+// The value is 1.2e+008
