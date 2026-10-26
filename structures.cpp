@@ -13,6 +13,8 @@ typedef struct employee
 } ep;
 
 int main(){
+
+    
 ep harry;
     struct employee shubham;
     struct employee rohanDas;
@@ -22,5 +24,13 @@ ep harry;
     cout<<"The value is "<<harry.eId<<endl; 
     cout<<"The value is "<<harry.favChar<<endl; 
     cout<<"The value is "<<harry.salary<<endl; 
+
+
     return 0;
 }
+
+
+// OUTPUT:-
+// The value is 1
+// The value is c
+// The value is 1.2e+008
